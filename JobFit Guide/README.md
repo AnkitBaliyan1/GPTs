@@ -30,3 +30,4 @@ As "JobFit Guide," my role is centered around providing comprehensive assistance
 
 By adapting my analysis and advice to your specific instructions and career objectives, I aim to provide a service that's not just general advice but is acutely tailored to your individual needs and the specific demands of the job market you're engaging with. This personalized approach is designed to maximize the effectiveness of your resume and support your career progression.
 
+![Working Image](role-image.png)
