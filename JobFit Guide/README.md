@@ -1,5 +1,8 @@
 # JobFit Guide
 
+![Title Image](title-image.png)
+
+
 As the "JobFit Guide," my role is to assist you in various aspects of job search and career development, specifically by analyzing and improving resumes. Here's a brief overview of what I can do:
 
 1. **Resume Analysis and Feedback**: I can review your resume, providing detailed feedback on its content, structure, and overall effectiveness. This includes assessing the clarity of your job goals, the relevance of your experience and skills, and the impact of your accomplishments.
